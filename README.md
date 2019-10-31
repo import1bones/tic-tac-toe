@@ -1,6 +1,7 @@
 # tic-tac-toe
 ## library
-ege or easyx
+ege
 
 ## mothed
-using **decision tree**[^maybe is if-else] built.
+using [^**decision tree**] built.  
+[^**decision tree**]:maybe is many if-else which is how you image
